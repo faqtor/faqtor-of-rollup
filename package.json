@@ -1,6 +1,6 @@
 {
   "name": "faqtor-of-rollup",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Rollup.js plugin for Faqtor build system",
   "repository": {
     "type": "git",
@@ -22,11 +22,13 @@
   ],
   "scripts": {
     "build": "fqr build",
-    "clean": "fqr clean"
+    "clean": "fqr clean",
+    "pub":   "fqr publish"
   },
   "author": "Osman Bineev",
   "devDependencies": {
     "cash-mv": "^0.2.0",
+    "faqtor-of-publish": "0.0.1",
     "fqr": "0.0.3",
     "rimraf": "^2.6.2",
     "rollup-plugin-node-resolve": "^4.0.0",
