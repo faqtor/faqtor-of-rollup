@@ -23,7 +23,7 @@
   "scripts": {
     "build": "fqr build",
     "clean": "fqr clean",
-    "pub":   "fqr publish"
+    "pub": "fqr publish"
   },
   "author": "Osman Bineev",
   "devDependencies": {
@@ -36,7 +36,7 @@
     "typescript": "^3.0.1"
   },
   "dependencies": {
-    "faqtor": "0.0.5",
+    "faqtor": "0.0.6",
     "rollup": "^1.0.0"
   }
 }
