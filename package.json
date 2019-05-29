@@ -27,14 +27,14 @@
   },
   "author": "Osman Bineev",
   "devDependencies": {
-    "cash-mv": "^0.2.0",
     "faqtor": "0.0.6",
-    "rollup": "^1.0.0",
     "faqtor-of-publish": "0.0.1",
     "fqr": "0.0.3",
     "rimraf": "^2.6.2",
+    "rollup": "^1.0.0",
     "rollup-plugin-node-resolve": "^4.0.0",
-    "rollup-plugin-typescript2": "^0.18.1",
+    "rollup-plugin-typescript2": "^0.21.1",
+    "shx": "^0.3.2",
     "typescript": "^3.0.1"
   },
   "dependencies": {}
